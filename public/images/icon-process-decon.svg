@@ -1,0 +1,18 @@
+<svg viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stopColor="#D4AF37"/><stop offset="100%" stopColor="#F0D060"/>
+    </linearGradient>
+  </defs>
+  <circle cx="40" cy="40" r="36" fill="url(#g)" opacity="0.1" stroke="url(#g)" stroke-width="1.5"/>
+  <!-- Clay bar shape -->
+  <rect x="26" y="32" width="28" height="16" rx="4" fill="url(#g)" opacity="0.2" stroke="url(#g)" stroke-width="1.5"/>
+  <!-- Surface particles being removed -->
+  <circle cx="20" cy="28" r="2" fill="#D4AF37" opacity="0.6"/>
+  <circle cx="16" cy="22" r="1.5" fill="#F0D060" opacity="0.4"/>
+  <circle cx="24" cy="20" r="1" fill="#D4AF37" opacity="0.3"/>
+  <circle cx="60" cy="30" r="2" fill="#D4AF37" opacity="0.6"/>
+  <circle cx="64" cy="24" r="1.5" fill="#F0D060" opacity="0.4"/>
+  <!-- Sparkle result -->
+  <text x="40" y="43" text-anchor="middle" fill="url(#g)" font-size="14" font-weight="bold" opacity="0.7">✦</text>
+</svg>

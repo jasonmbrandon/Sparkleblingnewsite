@@ -1,0 +1,17 @@
+<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stopColor="#D4AF37"/>
+      <stop offset="100%" stopColor="#F0D060"/>
+    </linearGradient>
+  </defs>
+  <!-- Clock circle -->
+  <circle cx="60" cy="60" r="44" fill="url(#sg)" opacity="0.15" stroke="url(#sg)" stroke-width="2"/>
+  <!-- Clock hands -->
+  <line x1="60" y1="60" x2="60" y2="32" stroke="url(#sg)" stroke-width="3" stroke-linecap="round"/>
+  <line x1="60" y1="60" x2="80" y2="60" stroke="url(#sg)" stroke-width="3" stroke-linecap="round"/>
+  <!-- Center dot -->
+  <circle cx="60" cy="60" r="4" fill="url(#sg)"/>
+  <!-- Infinity symbol below -->
+  <path d="M35 85c0-8 8-12 12-12s8 4 13 12c5-8 9-12 13-12s12 4 12 12" stroke="url(#sg)" stroke-width="2.5" stroke-linecap="round" fill="none" opacity="0.7"/>
+</svg>

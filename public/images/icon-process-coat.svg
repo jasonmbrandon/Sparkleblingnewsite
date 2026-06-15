@@ -1,0 +1,16 @@
+<svg viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stopColor="#D4AF37"/><stop offset="100%" stopColor="#F0D060"/>
+    </linearGradient>
+  </defs>
+  <circle cx="40" cy="40" r="36" fill="url(#g)" opacity="0.1" stroke="url(#g)" stroke-width="1.5"/>
+  <!-- Drop being applied -->
+  <ellipse cx="40" cy="40" rx="22" ry="18" fill="url(#g)" opacity="0.12" stroke="url(#g)" stroke-width="1.5"/>
+  <!-- Coating layers -->
+  <ellipse cx="40" cy="40" rx="14" ry="11" fill="url(#g)" opacity="0.1" stroke="url(#g)" stroke-width="1"/>
+  <ellipse cx="40" cy="40" rx="6" ry="5" fill="url(#g)" opacity="0.15"/>
+  <!-- Rainbow iridescence hint -->
+  <path d="M30 35c6-4 14-4 20 0" stroke="#D4AF37" stroke-width="1" opacity="0.4" fill="none"/>
+  <path d="M28 40c8-5 16-5 24 0" stroke="#F0D060" stroke-width="1" opacity="0.3" fill="none"/>
+</svg>

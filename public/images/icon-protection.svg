@@ -1,0 +1,16 @@
+<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stopColor="#D4AF37"/>
+      <stop offset="100%" stopColor="#F0D060"/>
+    </linearGradient>
+  </defs>
+  <!-- Shield -->
+  <path d="M60 8L16 28v28c0 35.4 18.9 68.5 44 76 25.1-7.5 44-40.6 44-76V28L60 8z" fill="url(#sg)" opacity="0.15" stroke="url(#sg)" stroke-width="2"/>
+  <!-- Checkmark -->
+  <path d="M45 60l10 10 20-25" stroke="url(#sg)" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- Sparkle -->
+  <circle cx="90" cy="25" r="3" fill="#F0D060" opacity="0.8"/>
+  <circle cx="95" cy="20" r="1.5" fill="#D4AF37" opacity="0.6"/>
+  <circle cx="85" cy="18" r="1.5" fill="#D4AF37" opacity="0.6"/>
+</svg>
